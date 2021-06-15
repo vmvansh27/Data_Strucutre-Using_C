@@ -1,2 +1,6 @@
 # Data_Strucutre-Using_C
-Data structures in C
+It includes:- 
+Linked List,
+Stack,
+Queue,
+binary tree
